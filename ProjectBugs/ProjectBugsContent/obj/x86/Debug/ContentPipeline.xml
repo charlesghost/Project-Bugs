@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BugAnimation.png</Source>
+      <Name>BugAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\BugAnimation.xnb</Output>
+      <Time>2014-01-14T11:55:03.9702783+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BugUnused.png</Source>
+      <Name>BugUnused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\BugUnused.xnb</Output>
+      <Time>2014-01-14T11:55:03.9722784+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-01-14T11:55:03.9742785+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-01-14T11:55:03.9762786+00:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\mainbackground.xnb</Output>
+      <Time>2014-01-14T11:55:03.9792788+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2014-01-14T11:55:03.9802788+00:00</Time>
+    </Item>
+    <Item>
+      <Source>factsscreen.png</Source>
+      <Name>factsscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\factsscreen.xnb</Output>
+      <Time>2014-01-14T22:09:27.1523936+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameoverscreen.png</Source>
+      <Name>gameoverscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\gameoverscreen.xnb</Output>
+      <Time>2014-01-14T22:09:27.123392+00:00</Time>
+    </Item>
+    <Item>
+      <Source>instructions.png</Source>
+      <Name>instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\instructions.xnb</Output>
+      <Time>2014-01-14T22:09:27.1183917+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu2.png</Source>
+      <Name>MainMenu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\MainMenu2.xnb</Output>
+      <Time>2014-01-14T22:09:27.1133914+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion.wav</Source>
+      <Name>Sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\explosion.xnb</Output>
+      <Time>2014-01-14T11:55:03.9512772+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\laserFire.wav</Source>
+      <Name>Sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\laserFire.xnb</Output>
+      <Time>2014-01-14T11:55:03.9632779+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\fear_the_mixup.mp3</Source>
+      <Name>Sound\fear_the_mixup</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\fear_the_mixup.xnb</Output>
+      <Extra>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\fear_the_mixup.wma</Extra>
+      <Time>2014-01-14T11:55:03.9602777+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuMusic.mp3</Source>
+      <Name>Sound\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\menuMusic.xnb</Output>
+      <Extra>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\menuMusic.wma</Extra>
+      <Time>2014-01-14T11:55:03.9672781+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2014-01-14T12:11:46.7666349+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-05T10:50:47.8466276+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,46 @@
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\BugAnimation.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\bullet.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\explosion.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\mainbackground.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\player.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\explosion.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\laserFire.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\fear_the_mixup.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\menuMusic.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\fear_the_mixup.wma
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\menuMusic.wma
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\ProjectBugs.exe
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\ProjectBugs.pdb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\ProjectBugs.exe
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\ProjectBugs.pdb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\gameFont.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\BugUnused.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\factsscreen.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\gameoverscreen.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\instructions.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\MainMenu2.xnb
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\ProjectBugs.csprojResolveAssemblyReference.cache
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\BugAnimation.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\BugUnused.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\player.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\factsscreen.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\gameoverscreen.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\instructions.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\MainMenu2.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\explosion.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\laserFire.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\fear_the_mixup.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\fear_the_mixup.wma
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\ProjectBugs.exe
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\bin\x86\Debug\ProjectBugs.pdb
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\ProjectBugs.csprojResolveAssemblyReference.cache
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\ProjectBugs.exe
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugs\obj\x86\Debug\ProjectBugs.pdb

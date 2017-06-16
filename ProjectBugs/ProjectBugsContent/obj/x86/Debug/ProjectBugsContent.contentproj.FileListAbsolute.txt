@@ -1,0 +1,2 @@
+c:\users\charles 2\documents\visual studio 2010\Projects\ProjectBugs\ProjectBugs\ProjectBugsContent\obj\x86\Debug\ProjectBugsContent.contentprojResolveAssemblyReference.cache
+C:\Users\Charles 2\Desktop\ProjectBugs\ProjectBugs\ProjectBugsContent\obj\x86\Debug\ProjectBugsContent.contentprojResolveAssemblyReference.cache
